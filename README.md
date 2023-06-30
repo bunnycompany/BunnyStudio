@@ -1,4 +1,4 @@
-<h3>👋 Welcome to BunnyStudio, forked from StableStudio <a href="https://dreamstudio.ai" target="_blank">DreamStudio</a>!</h3>
+<h3>👋 Welcome to BunnyStudio, forked from <a href="https://github.com/Stability-AI/StableStudio" target="_blank">StableStudio</a>!</h3>
 
 **🗺 Contents – [🚀 Quick Start](#quick-start) · [ℹ️ About](#about) · [🙋 FAQ](#faq) · [🧑‍💻 Contributing](#contributing)**
 
@@ -51,7 +51,7 @@ StableStudio is [Stability AI](https://stability.ai)'s official open-source vari
 
 _Not much!_ There are a few tweaks we made to make the project more community-friendly:
 
-- We removed [DreamStudio](https://dreamstudio.ai)-specific branding.
+- We removed [StableStudio](https://dreamstudio.ai)-specific branding.
 
 - All "over-the-wire" API calls have been replaced by a [plugin system](./packages/stablestudio-plugin/README.md) which allows you to easily swap out the back-end.
 
@@ -60,24 +60,3 @@ _Not much!_ There are a few tweaks we made to make the project more community-fr
 - We removed Stability-specific account features such as billing, API key management, etc.
 
   - These features are still available at [DreamStudio's account page](https://dreamstudio.ai/account).
-
-### Will [DreamStudio](https://dreamstudio.ai) still be supported?
-
-_Yes!_ Stability's hosted deployment of StableStudio will remain [DreamStudio](https://dreamstudio.ai). It will continue to get updates and stay up-to-date with StableStudio whenever possible.
-
-# <a id="contributing" href="#contributing">🧑‍💻 Contributing</a>
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 1em; margin: 0 0 2em 0;">
-  <img src="./misc/ProgrammingRobots.png" style="flex-grow: 1; flex-shrink: 1;" />
-</div>
-
-_**Community contributions are encouraged!**_
-
-**The UI package's [README](./packages/stablestudio-ui/README.md) is a great place to start.** Bug fixes, documentation, general clean-up, new features, etc. are all welcome.
-
-Here are some useful links...
-
-- [Discussion](https://github.com/Stability-AI/StableStudio/discussions)
-- [Open Issues](https://github.com/Stability-AI/StableStudio/issues)
-- [Open Pull Requests](https://github.com/Stability-AI/StableStudio/pulls)
-- [Code of Conduct](./CODE_OF_CONDUCT.md)
