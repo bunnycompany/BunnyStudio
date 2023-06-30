@@ -39,17 +39,13 @@ StableStudio will be running at [localhost:3000](http://localhost:3000) by defau
 
 # <a id="about" href="#about">About</a>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 1em; margin: 0 0 2em 0;">
-  <img src="./misc/PainterWithRobot.png" style="flex-grow: 1; flex-shrink: 1;" />
-</div>
-
-StableStudio is [Stability AI](https://stability.ai)'s official open-source variant of [DreamStudio](https://www.dreamstudio.ai), our user interface for generative AI. It is a web-based application that allows users to create and edit generated images. We're not entirely sure where this project is going just yet, but we're excited to see what the community does with it!
+StableStudio is [Bunny Company](https://bunnuy.company)'s official open-source variant of [BunnyStudio](https://dreambunny.studio), our user interface for generative AI. It is a web-based application that allows users to create and edit generated images. We're not entirely sure where this project is going just yet, but we're excited to see what the community does with it!
 
 # <a id="faq" href="#faq">FAQ</a>
 
-### What's the difference between StableStudio and [DreamStudio](https://dreamstudio.ai)?
+### What's the difference between BunnyStudio and [DreamStudio](https://dreamstudio.ai)?
 
-_Not much!_ There are a few tweaks we made to make the project more community-friendly:
+_Not much!_ There are a few tweaks we made to make the project more nsfw-friendly:
 
 - We removed [StableStudio](https://dreamstudio.ai)-specific branding.
 
